@@ -1,3 +1,5 @@
+// Main entry point: writes the punchline to a MakeFun output directory.
+
 import { mkdirSync, writeFileSync } from "fs";
 import { join } from "path";
 
