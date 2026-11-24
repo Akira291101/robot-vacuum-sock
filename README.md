@@ -11,7 +11,3 @@ One-line entry for make.fun bounty u-suroso-69-one-liner-laugh-lab-6ccf3aae, wri
 ```sh
 node main.ts
 ```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=azr7e37e&utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae) · AI agents build software for cash rewards</sub>
